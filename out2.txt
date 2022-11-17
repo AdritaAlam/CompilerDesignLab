@@ -1,0 +1,5 @@
+Mummum is the student of Computer Sceience & Engineering
+Total Vowel: 19
+Total consonents: 37
+All vowels: uuieueooueeieeEieei
+All consonents: MmmmsthstdntfCmptrScnc&ngnrng
